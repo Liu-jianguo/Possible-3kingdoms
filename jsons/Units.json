@@ -1,17 +1,16 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Dune Striders",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"uniqueTo": "Svenders",
+		"replaces": "Trebuchet",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"cost": 300,
+		"requiredTech": "Physics",
+		"promotions": ["Blitz","Besiege"],
 		"attackSound": "phasers"
 	}
 ]
